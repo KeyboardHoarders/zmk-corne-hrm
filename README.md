@@ -5,7 +5,8 @@
 
 ### Keymap Layout
 
-![corne-hrm_keymap](https://github.com/user-attachments/assets/3ac80199-a15b-448e-9362-fd93c4d52277)
+
+![corne-hrm-keymaps](https://github.com/user-attachments/assets/179714e3-0938-47fa-ba6b-ef99aef8888b)
 
 
 
