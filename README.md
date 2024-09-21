@@ -1,10 +1,12 @@
 ### My store keyboardhoarders.etsy.com
-![ukogvc9z copy](https://github.com/user-attachments/assets/59156141-b7cd-4627-be30-9b69cd84722c)
+
+![IMG_0377](https://github.com/user-attachments/assets/7a48af2f-1182-445c-a5fa-1cbc5489fdba)
 
 
 ### Keymap Layout
 
-![corne-mini_keymap](https://github.com/user-attachments/assets/9d6d7247-d922-424a-b4a5-290984d6be43)
+![corne-hrm_keymap](https://github.com/user-attachments/assets/3ac80199-a15b-448e-9362-fd93c4d52277)
+
 
 
 ### How can you access different Bluetooth profiles? For example, you can pair your phone with your keyboard and then seamlessly switch between using it with your phone and your computer.
